@@ -1,0 +1,4 @@
+N Value,Execution Time (seconds),Memory Usage (MB)
+1024,0.002447,0.03
+8192,0.019657,0.0
+16384,0.040588,0.0
